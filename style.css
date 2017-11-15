@@ -38,6 +38,9 @@ footer {
   background: #ebebeb;
 }
 
+.article  {
+  display: block;
+}
 
 section {
   font-family: arial;
